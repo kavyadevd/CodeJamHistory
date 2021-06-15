@@ -1,2 +1,2 @@
 # Google CodeJam History
-### Old Google Code Jam results and codes
+> Old Google Code Jam results and codes
